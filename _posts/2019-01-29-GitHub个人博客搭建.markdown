@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "GitHub个人博客搭建"
+date:   2019-01-29
+description: github pages + jekyll theme.
+---
+
+### jekyll免费主题地址 
+
+https://jekyllthemes.io/free<br>
+我使用的是这一款 https://jekyllthemes.io/theme/long-haul
+
+### 环境准备
+1. 将以下所需使用系统工具下载安装即可
+    * node 
+    * gem
+    * jekyll
+    * bundler
+2. 如果之后在安装过程中出错, 根据提示下载
+
+### 搭建流程
+
+1. 点击到他的github仓库, fock到自己的仓库
+2. 在setting中将项目更换成拥有自己独特分格的命名
+3. 进入到项目的根目录并执行以下指令
+    1. bundle install
+    2. bundle exec jekyll server
+4. 控制台会出现127.0.0.1:4000字样则启动成功
