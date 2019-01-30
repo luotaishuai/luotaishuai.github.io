@@ -4,11 +4,11 @@ title: Contact Long Haul
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">联系作者</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p class="intro">这是作者介绍页，如果想修改内容，请在 <code>contact.html</code> 中修改.</p>
+    <p>表单由 <a href="http://formspree.io/">Formspree</a> 提供, 按照其网站上的说明设置使用表单.</p>
+    <p>如果有任何问题请联系作者<a href="mailto:brimaidesigns@gmail.com">email author</a> 或者在 <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>提问题</p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>

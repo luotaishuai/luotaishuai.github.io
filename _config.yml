@@ -1,14 +1,15 @@
-title: Long Haul
+title: luotaishuai的博客
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://.github.com/luotaishuai/luotaishuai.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
@@ -20,9 +21,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: luotaishuai
+   #twitter: brianmaierjr
+   #facebook: brianmaierjr
+   email: txwwze@126.com
 
 google_analytics: "UA-58263416-1"
