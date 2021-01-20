@@ -1,7 +1,7 @@
-title: 罗太帅的博客
+title: 罗的个人博客
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://.github.com/luotaishuai/luotaishuai.github.io
+url: http://.github.com/luoyaa/luoyaa.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -21,7 +21,7 @@ navigation:
    url: /contact
 
 social:
-   github: luotaishuai
+   github: luoyaa
    #twitter: brianmaierjr
    #facebook: brianmaierjr
    email: txwwze@126.com
